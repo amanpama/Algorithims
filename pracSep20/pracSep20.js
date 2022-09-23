@@ -12,4 +12,4 @@ function fib(num) {
     }
     return i
 }
-console.log(fib(30))
+console.log(fib(20))
